@@ -17,6 +17,7 @@ JIT(Just-in-Time)에서 JIC(Just-in-Case)로. 지난 30년 자유무역 위에 �
 |---|---|---|
 | 모션그래픽 강의 — 덱 100장을 92장면으로 다시 그림 | 75:24 | https://youtu.be/KkS47KGK5NA |
 | 쇼릴 | 6:30 | https://youtu.be/SBFAZLJ5f3U |
+| 나레이션 쇼릴 — 8부 흐름을 나레이션과 함께, 설명란에 부별 챕터 | 10:27 | https://youtu.be/u_8r4b67hUc |
 
 ## 구성
 
